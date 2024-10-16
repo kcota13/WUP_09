@@ -1,6 +1,6 @@
 ---
 title: "Weight of Fish"
-author: "Your Name"
+author: "Karla Cota Lopez"
 date: "`r Sys.Date()`"  
 output: 
   html_document:
@@ -51,7 +51,11 @@ Whitefish <- select(Whitefish, -Species)
 
 ## Perch
 
+Find the best 2 predictors for the weight of a perch
+
 ### Best Models
+
+
 
 ### Best Two regressor model
 
